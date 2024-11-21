@@ -1,0 +1,125 @@
+body{
+    font-family:"Arial", Verdana;
+    background: #000000;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+h1{
+    font-size: 42px;
+    padding: 15px;
+    text-align: center;
+}
+
+h2{
+	font-size: 30px;
+    color: #0D0D0D;
+}
+
+p{
+    font-size: 24px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+img{
+    width: 250%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px dashed white;
+} 
+
+div {
+    border: 3px solid white;
+    height: 125px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+#intro{
+    height: 150px;
+    padding: 25px;
+    border-radius: 15px;
+    color:#FFFFFF;
+    margin-top: 15px;
+    letter-spacing: 2px;
+}
+
+#red{
+    background: #FF0000;
+    min-height: 150px;
+    padding: 25px;
+    color: #0f0000;
+    text-align: right;
+    margin-left: 50px;
+    border-top: 45px;
+    border-right: 5px;
+    border-bottom: 2px;
+}
+
+
+#blue{
+    background: #0000FF;
+    min-height: 150px;
+    padding: 25px;
+    color: #f4f1f1;
+    text-align: left;
+    margin-right: 50px;
+    border-left: 5px;
+    border-top: 2px;
+    color: #C4C4C4
+}
+
+#yellow{
+    background: yellow;
+    min-height: 150px;
+    padding:25px;
+    color: #000000;
+    text-align: right;
+    margin-left: 50px;
+    border-bottom: 2px;
+    border-left: 5px;
+
+}
+
+/*#yellow h2{
+    text-shadow: 4px 4px 2px #c7e2c7;
+}
+*/
+
+#green{
+    background-color: green;
+    min-height: 150px;
+    padding:25px;
+    text-align: left;
+    color:#0b0000;
+    margin-right: 50px;
+    border-right: 5px;
+    border-top: 2px;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+}
+
+footer p {
+    text-align: center;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+    background: #0838e5;
+    padding-top: 0px;
+    margin-right: auto;
+    text-align: right;
+    border: 5px solid white;
+}
